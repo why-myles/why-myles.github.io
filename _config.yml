@@ -1,12 +1,12 @@
 # Site settings
-site: Ephesus
-title: Ephesus - Minimalist Jekyll Theme
+site: Why Myles
+title: Why, Myles?
 keywords: ephesus, blog
 description: >-
-  Ephesus - Minimalist Jekyll Theme
+  A place for creations
 lang: en-US
 timezone:  Europe/Istanbul
-repo: https://github.com/onepase/Ephesus # site repo [optional]
+repo: git@github.com:why-myles/why-myles.github.io.git # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
 google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
 discus-identifier:  XXX
