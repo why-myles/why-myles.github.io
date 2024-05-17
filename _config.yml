@@ -1,11 +1,11 @@
 # Site settings
 site: Why Myles
 title: Why, Myles?
-keywords: ephesus, blog
+keywords: myles, blog
 description: >-
   A place for creations
 lang: en-US
-timezone:  Europe/Istanbul
+timezone:  US/Pacific
 repo: git@github.com:why-myles/why-myles.github.io.git # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
 google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
@@ -16,13 +16,13 @@ author:
   name: Myles Stremick
   bio: A bunch of creations
   picture: assets/images/profile.png 
-  github: onepase # github username
-  twitter: onepase # twitter username
-  facebook: onepase # facebook username
-  instagram: onepase # instagram username
-  youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
-  linkedin: hakantorun # linkedin username
-  email: your-email@email.com # email adress
+  github: why-myles # github username
+  twitter: why_myles # twitter username
+  #facebook: onepase # facebook username
+  #instagram: onepase # instagram username
+  youtube: https://www.youtube.com/@feedbackerrorfilms8727 # youtube username
+  linkedin: myles-stremick # linkedin username
+  email: mylestremick@gmail.com # email adress
 
 
 # URL settings
