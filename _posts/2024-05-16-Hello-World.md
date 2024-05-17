@@ -1,5 +1,5 @@
 ---
-title: "Hello World (Wide Web)"
+title: "Hello, World (Wide Web)"
 date: 2024-05-16
 author: Myles 
 layout: post
