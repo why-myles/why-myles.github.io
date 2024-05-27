@@ -33,11 +33,11 @@ Also take every bit of history I say here with a few grains of salt. I am not a 
 
 I'm not too sure why 10% became so popular so long ago, maybe someone reading this can tell me. In any case, the cultural norm of 10% has been passed down for thousands of years. 
 
-And it's not just and ancient relic. 
+And it's not just an ancient relic. 
 
 [The Giving What We Can Pledge](https://www.givingwhatwecan.org/pledge)
 
-Giving What We Can is an EA organization who's most obvious purpose, as I can understand it, is to convince people to take to above pledge and get them to donate 10% of their income to highly effective charities. 
+Giving What We Can is an EA organization whose most obvious purpose, as I can understand it, is to convince people to take to above pledge and get them to donate 10% of their income to highly effective charities. 
 
 When I thought about wanting to give I wanted it to be significant enough that if everyone in my similar position copied me it would noticably change the world, but not so much that I would have to significantly change my behavior or actions in the world by the process of giving. 10% felt like it hit both of these. 
 
@@ -47,23 +47,23 @@ Importantly, I have not taken the Giving What We Can Pledge, and do not currentl
 
 # How do I divide my giving?
 
-2% - HealthRIGHT 360, General Fund
-6% - Giving What We Can, Global Health and Wellbeing Fund
-2% - Giving What We Can, Effective Giving Research and Advocacy
+**2% - HealthRIGHT 360, General Fund - Something local and concrete**
+
+**6% - Giving What We Can, Global Health and Wellbeing Fund - Something global and concrete**
+
+**2% - Giving What We Can, Effective Giving Research and Advocacy - Something global and nebulous**
 
 ## The Philosophy
-
-2% to something local and concrete
-6% to something global and concrete
-2% to something global and nebulous 
 
 ### Local and Concrete
 
 I'm someone who is very interested in where the thinky abstract world becomes concrete physical world. That intersection between spaces is fascinating and engaging to me, and I choose to spend much of my energy focusing on that space. For that reason I wanted to split my giving between very local challenges where I can actively see problems in my day to day life, and much larger challenges that span across the entire globe and into the future. 
 
-So a small chunk goes to what I think is the most obvious, painful problem that I see in my day to day life: substance use disorder and homelessness. When I think about what I see in the world that triggers the most compassion in me day to day, one thing takes the cake. The amount of people living on the street who smoke and inject Fentanyl and other substances until they die. People living in pain, people screaming to themselves and others due to a variety of untreated mental disorders, people trapped in cycles. It's disgusting that we are ok with this as a society. 
+So a small chunk goes to what I think is the most obvious, painful problem that I see in my day to day life: substance use disorder and homelessness. When I think about what I see in the world that triggers the most compassion in me day to day, one thing takes the cake. The amount of people living on the street who smoke and inject Fentanyl and other substances until they die. People living in pain, people screaming to themselves and others due to a variety of untreated mental disorders, people trapped in cycles of poverty and addiction. It's disgusting that we are ok with this as a society. 
 
-I didn't know much about how to help, but I figured donating to the Haight Ashbury Medical Clinics do more to help than hurt. So I tried figuring out how to donate to them and found that they merged with Walden House to form HealthRIGHT 360. I like their approach to the problem, keep providing the next step in reentry and health and give people a choice to follow or not. 
+I didn't know much about how to help, but I figured donating to the Haight Ashbury Medical Clinics do more to help than hurt. So I tried figuring out how to donate to them and found that they merged with Walden House to form HealthRIGHT 360. I like their approach to the problem, keep providing the next step in reentry and health and give people a choice to follow or not. I'd recommend checking out their website or talking to me for more information about them.
+
+This focus on local problems that I can see disqualifies me from the GWWC pledge. It does not focus on the most effective charities for the most global wellbeing. My non-conventional thought is it actually might in a round-about kind of way. My hope with donating and being involved in local issues is that I can help inspire people to think about issues they see and care about in their own lives, thereby leading to more energy being put into more issues than if I just put this 2% to more EA 'approved' charities. Even if that were proven to not happen I would probably still donate to HealthRIGHT 360 or another local non-profit just because making a differnce in something I can see and experience feels good to me. 
 
 ### Global and Concrete
 
@@ -79,9 +79,9 @@ So, concrete problem that affect a lot of people. To me that's global health and
 
 And I want some of my giving to focus on the largest, least feedback, lets go crazy with our ideas and see where they land kind of cause. I chose to make it the same as the local and concrete giving because it feels like a yin/yang kind of thing, and the symmetry gave me a good feeling of order. 
 
-People organization seems big and neboulous and interesting to me. So I landed on just give GWWC money and see what they do with it. Thinking about it now it actually does seem a little too concrete in that you can model how each $ that goes into this 'recruiting' fund leads to more funds, pledgers, etc. But who knows what GWWC will do once more people are on-board with the ideas in it? EA has already gone through changes from focusing on Earning to Give to more emphasis on careers in areas that do good (rising imporance of talent vs capital for causes), perhaps if it continues to grow it's encounter another infection point on recommended action for participants? 
+People organization seems big and neboulous and interesting to me. So I landed on just give GWWC money and see what they do with it. Thinking about it now it actually does seem a little too concrete in that you can model how each $ that goes into this 'recruiting' fund leads to more funds, pledgers, etc. But who knows what GWWC will do once more people are on-board with the ideas in it? EA has already gone through changes from focusing on Earning to Give to more emphasis on careers in areas that do good (rising imporance of talent vs capital for causes), perhaps if it continues to grow it'll encounter another infection point on recommended action for participants? 
 
-Something about the unknowing of the change and it being dedicated to organizing people is cool. 
+Something about the unknowing of the change and it being dedicated to organizing people is cool. And nebulous. What will it actually to towards changin in the world? I'm not sure. 2% it is.
 
 ---
 
@@ -90,8 +90,3 @@ Next post I'll focus on more of the internal 'why' for donations and giving. Why
 Also seeing the length of this post I'm realizing it'll be a lot to put on the giving wall. Maybe I'll put larger points on the wall with a QR code or printout of this post near by? Don't really want to have this much text on the wall. Or maybe you're reading this on the wall and I abandoned that idea.
 
 All things in time. 
-
-## References
-
-https://en.wikipedia.org/wiki/Tithes_in_Judaism
-https://en.wikipedia.org/wiki/Tithing_in_Mormonism
